@@ -96,8 +96,7 @@ object project {
     
     println("project phase 1 ends")
     
-    println("changes commit to remote child branch and then by creating pull request merge the code okey")
-    
+
 
     
     
