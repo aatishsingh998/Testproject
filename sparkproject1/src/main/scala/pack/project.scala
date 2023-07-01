@@ -93,6 +93,9 @@ object project {
     
     flatdf.show()
     
+    
+    println("project phase 1 ends")
+    
 
     
     
